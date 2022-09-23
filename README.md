@@ -9,6 +9,7 @@
 
 <div>
 <a href="https://instagram.com/ternes.carlos3" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://twitter.com/tocostoso" target="_blank"><img src="https://cdn.discordapp.com/attachments/583689548870189096/1022998531490971650/download.png" target="_blank"></a>
 <a href = "mailto:caduternes2@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
