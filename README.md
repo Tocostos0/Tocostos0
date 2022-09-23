@@ -12,5 +12,6 @@
 <a href = "mailto:caduternes2@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-
-         ![octocat-1663970515563](https://user-images.githubusercontent.com/106896557/192063068-2625839c-3a39-4b06-9bf2-75b4b7971830.png)          
+<div>
+<img src="https://user-images.githubusercontent.com/106896557/192063068-2625839c-3a39-4b06-9bf2-75b4b7971830.png" width="900" height="900"/>        
+</div>
