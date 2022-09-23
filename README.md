@@ -1,5 +1,5 @@
 # 👋 Hello! Welcome to my Github profile.
-## My name is SeuNomeAqui and my nickname is "Tocostoso"!
+## My name is Toco and my nickname is "Tocostoso"!
 
 ## I'm learning:
 
